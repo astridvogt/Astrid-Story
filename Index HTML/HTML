@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello Friends </title>
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+    <body>
+
+      <h1> I am Astrid Vogt Carreras</h1>
+    
+                         <!--Headers-->
+
+     <h2>My Story</h2>
+     <ol>
+     <li><a href="#Background">Background</a></li>
+     <li><a href="#Last"> Last Adventure</a></li>
+     <li><a href="#studied"> What have I studied</a></li>
+     <li><a href="#Important">My Most Important Achivements</a></li>
+     <li><a href="#Facts">Some Interesting Facts</a></li>
+     </ol>
+
+                      <!--Background-->
+
+       <div id="Background">
+       <h2>My Background</h2>
+       <p>I was born in Mexico City, Mexico. Grew up living and learning two cultures<br/>
+        the German and the Mexican. Have been in Canada since 1986.</p>
+       <img src="../images/me.png">
+       <p> Here I am taking a painting class in Mexico</p>
+       </div>
+
+                      <!--Last Activity-->
+
+       <div id="Last">
+       <h2>My Last Adventure</h2>
+       <p>My last adventure took me back to Mexico to help care for my mom who <br/>
+       broke her hip therefore is in a Wheelchair and returned to Canada in June<br/>
+       2017 after 2.5 years in Mexico. And now that I have the opportunity to<br/> 
+       explore what I want to try next computers have been a love of mine</p>
+       <img src="../images/mom's picture.png">
+       <p>Here is my Mom the adventurer in San Diego</p>
+       </div>
+
+                     <!--History-->
+
+       <div id="studied">
+       <h2>What have I studied?</h2>
+       <ul>
+       <li>Highschool(German School Mexico)</li>
+       <li>Business Degree ITAM Mexico</li>
+       <li>Third level CGA Vancouver</li>
+       <li>Reflexology Vancouver</li>
+       <li>Build Websites from scratch Codecademy</li>
+       </ul>
+       </div>
+
+                     <!--Best Events in my life-->
+
+       <div id="Important">
+       <h2>My Most Important Achivements</h2>
+       <ol>
+       <li>Being a single Mom</li>
+       <li>Being the Mom to my daughter Tania 28</li>
+       <li>Being the Mom to my son Erick 26</li>
+       <li> Getting out of an abusive relationship</li>
+       <li>Face two open heart surgeries for my son</li>
+       <li>Come face to face with Mental Ilness</li>
+       <li>Support my Mom and Dad through a stroke recovery</li>
+       <li>Support my family in Mexico to care for my Mom after a hip replacement </li>
+       <li> Start my new life coding</li>
+       </ol>
+       </div>
+
+                     <!--A Few Interesting Facts-->
+
+       <div id="Facts">
+       <h2>Some Interesting Facts</h2>
+       <p>One of my most memorable trips was one I did with my daughter for a month<br/> 
+          and a half traveling the east coast of Australia. It was an amazing experience<br/> 
+          to backpack through this beautiful country with her</p>
+       <p>Special Talent I love cooking mexican food</p>  
+       </div> 
+
+                   <!--Footer-->
+
+       <p>Find me</p> <a href="https://www.facebook.com/astrid.vogt.1" target="blank">facebook</a>
+                      <a href="https://www.linkedin.com/feed/?trk=" target="blank">linkedin</a>
+      
+
+    </body>
+</html>
+
